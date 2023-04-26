@@ -55,7 +55,15 @@ endmodule
 ## Output:
 ## RTL
 ## For F1:
-
+![f1](https://user-images.githubusercontent.com/118707756/234546182-7eea8d3d-c0ac-4ed9-ae3f-6fc46d7988e5.png)
+## For F2:
+![f2](https://user-images.githubusercontent.com/118707756/234546546-05c029ea-6949-40f3-88ea-c1dadd1e5ec6.png)
 ## Timing Diagram
+## For F1:
+![f1t](https://user-images.githubusercontent.com/118707756/234546778-47b9b3ef-cfcd-4e7c-9686-1a858bd55b8b.png)
+
+## For F2:
+![f2t](https://user-images.githubusercontent.com/118707756/234546860-c513a979-f5ad-4c1d-879f-a773944a5ae7.png)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
